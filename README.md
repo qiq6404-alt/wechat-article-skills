@@ -29,4 +29,4 @@ SDS的自建实战向Skills - 微信公众号文章抓取总结成md
    ```bash
  git clone https://github.com/你的用户名/wechat-article-skills.git
 
-
+# 复制 skill 文件夹到你的 skills 目录
